@@ -1,4 +1,4 @@
 interface:
   display_name: "FDE Weekly Log"
-  short_description: "FDE 주간 로그 작성 기준과 증빙 수집"
-  default_prompt: "$fde-weekly-log를 사용해 Confluence와 Slack 근거 기반의 Space & Property FDE 주간 로그 Markdown 초안을 작성해줘."
+  short_description: "FDE 주간 로그와 AX Impact 금요일 현황표 업데이트 기준"
+  default_prompt: "$fde-weekly-log를 사용해 Confluence, Slack, GitHub, SharePoint Excel 근거 기반의 Space & Property FDE 주간 로그 또는 FDE 통합 진행현황 업데이트 초안을 작성해줘."
